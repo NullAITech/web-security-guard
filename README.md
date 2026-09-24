@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/1nc0gn30/web-security-guard/actions"><img src="https://img.shields.io/badge/CI-15%20Jobs%20Passing-1e8e3e?style=flat-square&logo=githubactions" alt="CI Status"></a>
+  <a href="https://github.com/NullAITech/web-security-guard/actions"><img src="https://img.shields.io/badge/CI-15%20Jobs%20Passing-1e8e3e?style=flat-square&logo=githubactions" alt="CI Status"></a>
   <a href="https://pypi.org/project/web-security-guard/"><img src="https://img.shields.io/badge/Python-3.9%20|%203.10%20|%203.11%20|%203.12%20|%203.13-1a73e8?style=flat-square&logo=python" alt="Python Versions"></a>
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Native%20Server-9334e6?style=flat-square" alt="MCP Compatible"></a>
   <a href="https://www.w3.org/WAI/standards-guidelines/wcag/"><img src="https://img.shields.io/badge/WCAG-2.2%20AA%20%2F%20AAA-f9ab00?style=flat-square" alt="WCAG 2.2"></a>
